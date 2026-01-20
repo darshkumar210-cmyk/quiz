@@ -1,0 +1,99 @@
+[
+  {
+    "class": "10",
+    "subject": "science",
+    "chapter": "Chemical Reactions",
+    "question": "Chemical formula of water?",
+    "options": ["H2O", "CO2", "O2", "H2"],
+    "answer": 0,
+    "difficulty": "easy"
+  },
+  {
+    "class": "10",
+    "subject": "science",
+    "chapter": "Chemical Reactions",
+    "question": "pH of acid is?",
+    "options": [">7", "=7", "<7", "0"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "class": "10",
+    "subject": "science",
+    "chapter": "Light",
+    "question": "Which mirror is used in vehicles?",
+    "options": ["Plane", "Concave", "Convex", "None"],
+    "answer": 2,
+    "difficulty": "medium"
+  },
+  {
+    "class": "10",
+    "subject": "maths",
+    "chapter": "Quadratic Equations",
+    "question": "Degree of quadratic equation?",
+    "options": ["1", "2", "3", "4"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "class": "9",
+    "subject": "science",
+    "chapter": "Motion",
+    "question": "Unit of force?",
+    "options": ["Newton", "Joule", "Pascal", "Watt"],
+    "answer": 0,
+    "difficulty": "easy"
+  },
+  {
+    "class": "9",
+    "subject": "maths",
+    "chapter": "Polynomials",
+    "question": "Value of (a+b)²?",
+    "options": ["a²+b²", "a²+2ab+b²", "2a+2b", "ab"],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+
+  {
+    "class": "6",
+    "subject": "science",
+    "chapter": "Food",
+    "question": "Plants make food by?",
+    "options": ["Respiration", "Photosynthesis", "Digestion", "Excretion"],
+    "answer": 1
+  },
+  {
+    "class": "6",
+    "subject": "science",
+    "chapter": "Food",
+    "question": "Green pigment in leaves?",
+    "options": ["Chlorine", "Chlorophyll", "Iron", "Oxygen"],
+    "answer": 1
+  },
+  {
+    "class": "7",
+    "subject": "maths",
+    "chapter": "Algebra",
+    "question": "Value of x if x + 5 = 10?",
+    "options": ["3", "5", "10", "15"],
+    "answer": 1
+  },
+  {
+    "class": "8",
+    "subject": "science",
+    "chapter": "Force",
+    "question": "Force that stops motion?",
+    "options": ["Gravity", "Friction", "Magnet", "Thrust"],
+    "answer": 1
+  },
+  {
+    "class": "10",
+    "subject": "science",
+    "chapter": "Light",
+    "question": "Mirror used in vehicles?",
+    "options": ["Plane", "Concave", "Convex", "None"],
+    "answer": 2
+  }
+]
+
+

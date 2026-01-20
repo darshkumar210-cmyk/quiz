@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>AI Quiz App</title>
+
+  <!-- AdMob Web -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h2>🧠 AI Quiz Mock Test</h2>
+
+<!-- Ad -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-XXXXXXXXXXXXXXXX"
+     data-ad-slot="XXXXXXXXXX"
+     data-ad-format="auto"></ins>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<!-- Dashboard -->
+<div id="dashboard">
+  <p>Tests: <span id="tests">0</span></p>
+  <p>Average: <span id="avg">0</span>%</p>
+  <p>Best: <span id="best">0</span>%</p>
+</div>
+
+<!-- Filters -->
+<select id="classSelect"></select>
+<select id="subjectSelect"></select>
+<select id="chapterSelect"></select>
+<button onclick="startQuiz()">Start Quiz</button>
+
+<!-- Quiz -->
+<div id="quiz"></div>
+<div id="result"></div>
+
+<script src="app.js"></script>
+</body>
+</html>
+
+
